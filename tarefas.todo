@@ -1,0 +1,95 @@
+Lógica de Programação:
+    Estrutura de Dados:
+        ☐ Filas
+        ☐ Pilhas
+        ☐ Árvores
+    Algoritmos:
+        ☐ Use a Imaginação
+
+Fundamentos do Javascript:
+    Básico:
+        ☐ Const e Let
+        ☐ Operadores Aritmeticos
+        ☐ Operadores Lógicos
+        ☐ Operadores Relacionais
+        ☐ Arrays
+        ☐ Objetos
+        ☐ Funções
+        ☐ Comandos Condicionais (If, Else, Switch)
+        ☐ Comandos de Repetição (For, While)
+        ☐ ParseInt
+        ☐ ParseFloat
+        ☐ Date
+    
+    Performance na Linguagem:
+        Arrays:
+            ☐ For Each
+            ☐ Map
+            ☐ Filter
+            ☐ IndexOf
+            ☐ Search
+            ☐ Find
+            ☐ Push
+            ☐ Sort
+            ☐ Join
+            ☐ Slice
+            ☐ Splice
+            ☐ Remover Elementos do Array
+        Strings:
+            ☐ Substring
+            ☐ Replace
+            ☐ Lower Case
+            ☐ Upper Case
+            ☐ Trin
+            ☐ Split
+            ☐ Includes
+            ☐ IndexOf
+        Objetos:
+            ☐ Entries
+            ☐ Keys
+            ☐ Values
+        Json:
+            ☐ Parse
+            ☐ StringFy
+        Tratamento de Erros:
+            ☐ Try Catch
+        ☐ Rest Operator
+        ☐ Desestruturação
+        Estrutura de Dados:
+            ☐ Set
+            ☐ Map
+
+    Avançado:
+        ☐ Promisses
+        ☐ Async/Await
+        ☐ Regex(basicão)
+        ☐ Modules
+        ☐ Classes
+        ☐ Function Generator
+
+        
+
+Banco de Dados:
+
+Git e GitHub:
+    ☐ Criar um Repositório Remoto
+    ☐ Conectar com esse Repositório Remoto
+    ☐ Git Add
+    ☐ Git Commit
+    ☐ Git Push
+    ☐ Git Pull
+    ☐ Git Log
+    ☐ Git Clone
+    ☐ Git Branch
+    ☐ Criar Branchs
+    ☐ Git Checkout
+    ☐ Visualizar o Passado
+    ☐ Enviar Branch criada para o Repositório Remoto
+
+WEB:
+    ☐ Funcionamento da Internet
+    ☐ Protocolo HTTP e HTTPS
+    ☐ Dominios, SubDominios e Registros
+
+Servidores:
+
