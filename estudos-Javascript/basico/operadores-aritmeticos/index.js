@@ -1,17 +1,22 @@
-let nome = "Leonardo";
+let num1 = 20;
+let num2 = 15;
+let resultado;
 
-if(nome != "Leonardo") {
-    console.log("Não é possível acessar!");
-} else {
-    console.log("Bem vindo!");
-}
+resultado = (num1 + num2) / 3;
+console.log(resultado.toFixed(2));
 
-let nome2 = "Anderson";
-let sobrenome = "Silva";
+resultado = num1 += num2;
+console.log(resultado);
 
-console.log(nome2 + " " + sobrenome);
-console.log(`${nome} ${sobrenome}`);
+let meuInt = 4;
+let meuFloat = 4.5;
 
-let states = nome != "Leonardo" ? "Não é possivel acessar!" : "Bem vindo!";
+console.log(typeof meuInt);
+console.log(typeof meuFloat);
 
-console.log(states);
+let numIncremento = 5;
+numIncremento++
+console.log(numIncremento);
+
+numIncremento--
+console.log(numIncremento);
