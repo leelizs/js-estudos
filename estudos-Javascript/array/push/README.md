@@ -1,0 +1,2 @@
+# Push
+## usando o push() método, não precisa saber o comprimento do array para adicionar elementos, se usa a notação de ponto para chamar push(). Indicando os elementos a serem anexados dentro do parênteses, o elemento especificado será adicionado ao final do array.

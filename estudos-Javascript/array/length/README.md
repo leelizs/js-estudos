@@ -1,0 +1,2 @@
+# Length
+## Verifica o número de elementos contidos dentro de um array através da notação de ponto. O comprimento do array será o valor do índice do último elemento dentro do array + 1, já que a indexação começa em zero.

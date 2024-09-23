@@ -30,12 +30,12 @@ Fundamentos do Javascript:
             ☐ IndexOf
             ☐ Search
             ☐ Find
-            ☐ Push
+            ✔ Push @done(24-09-22 22:14)
             ☐ Sort
             ☐ Join
             ☐ Slice
-            ☐ Splice
-            ☐ Remover Elementos do Array
+            ✔ Splice @done(24-09-22 22:14)
+            ✔ Remover Elementos do Array @done(24-09-22 22:14)
         Strings:
             ☐ Substring
             ☐ Replace
