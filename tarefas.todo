@@ -24,16 +24,16 @@ Fundamentos do Javascript:
     
     Performance na Linguagem:
         Arrays:
-            ☐ For Each
-            ☐ Map
+            ✔ For Each @done(24-09-22 23:52)
+            ✔ Map @done(24-09-22 23:08)
             ☐ Filter
-            ☐ IndexOf
+            ✔ IndexOf @done(24-09-22 23:33)
             ☐ Search
-            ☐ Find
+            ✔ Find @done(24-09-22 23:33)
             ✔ Push @done(24-09-22 22:14)
-            ☐ Sort
-            ☐ Join
-            ☐ Slice
+            ✔ Sort @done(24-09-22 23:43)
+            ✔ Join @done(24-09-22 22:35)
+            ✔ Slice @done(24-09-22 23:08)
             ✔ Splice @done(24-09-22 22:14)
             ✔ Remover Elementos do Array @done(24-09-22 22:14)
         Strings:
@@ -43,8 +43,8 @@ Fundamentos do Javascript:
             ☐ Upper Case
             ☐ Trin
             ☐ Split
-            ☐ Includes
-            ☐ IndexOf
+            ✔ Includes @done(24-09-22 23:19)
+            ✔ IndexOf @done(24-09-22 23:22)
         Objetos:
             ☐ Entries
             ☐ Keys

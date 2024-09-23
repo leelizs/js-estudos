@@ -1,0 +1,2 @@
+# IndexOf
+## Precisa saber o índice no qual um valor específico pode ser encontrado em uma matriz, usar o indexOf() método. Ele retorna apenas o primeiro índice no qual o valor especificado é encontrado, caso contrário, ele retorna -1. O segundo parâmetro é o índice de onde começar a procurar pelo valor, o padrão é 0.

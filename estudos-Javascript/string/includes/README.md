@@ -1,0 +1,2 @@
+# Includes
+## Se um valor está incluído em uma matriz, chamar o includes() método nela passando o valor de seu interesse como argumento. Este método retorna "true" se o valor for encontrado. Caso contrário "false". Aceita também um segundo parâmetro, representando o índice onde começar a busca, o padrão é 0.

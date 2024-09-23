@@ -1,0 +1,2 @@
+# Filter
+## Este método fornece uma maneira de filtrar os elementos da matriz que satisfazem um determinado critério. filter() recebe uma função de retorno de chamada, cujos parâmetros são o elemento atual, seu índice e o array no qual o método é chamado. Ele cria uma cópia superficial do array original contendo apenas os valores para os quais o retorno de chamada retorna um valor verdadeiro e negligencia os outros.

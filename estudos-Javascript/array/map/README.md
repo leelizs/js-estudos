@@ -1,0 +1,2 @@
+# Map
+## O map() método gera uma nova matriz contendo o resultado da chamada de uma função de retorno de chamada em cada elemento de uma matriz. A função recebe como parâmetros o elemento atual, seu índice e o array no qual o método é chamado. map() não só duplica um array. usando uma função de retorno de chamada diferente, pode executar muitas operações diferentes.

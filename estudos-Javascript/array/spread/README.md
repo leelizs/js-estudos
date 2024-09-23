@@ -1,0 +1,2 @@
+# Spread
+## O operador spread permite que você expanda um array, geralmente um objeto iterável em seus elementos. spread serve para copiar um array ou mesclar arrays diferentes. Para fazer isso, você precisa listar os arrays que deseja mesclar entre colchetes, acrescentando três pontos antes de cada um. Além disso, você pode usar a mesma sintaxe com apenas um array, para criar uma cópia de um array.
