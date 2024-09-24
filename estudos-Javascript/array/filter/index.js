@@ -8,3 +8,11 @@ let animais = [
 
 // Filtrando os valores do Array com o operador filter
 console.log(animais.filter(el => el['nome'].includes('Pigs'))); // apenas os elementos incluindo 'Pigs', são inseridos na matriz filtrada.
+
+function seGrandeSuficiente(value) {
+    return value >= 10;
+}
+
+const filtrado = [15, 4, 16, 3, 19, 145, 2, 2, 75, 88].filter(seGrandeSuficiente);
+console.log(filtrado);
+
