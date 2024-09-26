@@ -20,3 +20,18 @@
     padding-top: 20px;
     font-size: 20px;
 }
+
+.tenho-custo-title{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.container-tenho-custo{
+    text-align: center;
+    padding: 20px;
+}
+
+#trocarTextoCusto {
+    padding-top: 20px;
+    font-size: 20px;
+}
