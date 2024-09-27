@@ -20,7 +20,7 @@ btnCalcular.addEventListener('click', () => {
         alert("Preencha todos os campos!");
     } else {
         document.getElementById("trocarTexto").innerHTML = (`O Preço de Custo é de: ${precoCusto.toFixed(2)}. 
-        O Preço de venda é de: R$: ${precoFinal.toFixed(2)}. O Percentual é de: ${percentual}%`);
+        O Preço de Venda é de: R$: ${precoFinal.toFixed(2)}. O Percentual é de: ${percentual}%`);
     }
 });
 
@@ -41,7 +41,7 @@ btnCalcularCusto.addEventListener('click', () => {
     if (Number.isNaN(custo) || Number.isNaN(percentualCusto)) {
         alert("Preencha todos os campos!");
     } else {
-        document.getElementById("trocarTextoCusto").innerHTML = (`O Preço de venda é de: R$: ${precoCustoFinal.toFixed(2)}. 
+        document.getElementById("trocarTextoCusto").innerHTML = (`O Preço de Venda é de: R$: ${precoCustoFinal.toFixed(2)}. 
         O Percentual é de: ${percentualCusto}%`);
     }
 });
