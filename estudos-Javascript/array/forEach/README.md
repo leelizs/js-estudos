@@ -1,2 +1,2 @@
 # forEach
-## O forEach() método é similar a map(). Ele executa uma função em cada elemento do array, mas não tem valor de retorno. 
+## O forEach() método é similar a map(). O método forEach é usado para percorrer arrays, mas usa uma função de modo diferente do "laço for" tradicional. O método forEach passa uma função de callback para cada elemento do array. Valor atual(obrigatório) - O valor do elemento atual do array. Índice(opcional) - O número do índice do elemento atual. Array (opcional) - O objeto de array ao qual o elemento atual pertence. forEach() não altera o array no qual é chamado. (No entanto, callback pode fazê-lo).

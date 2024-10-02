@@ -24,8 +24,8 @@ Fundamentos do Javascript:
     
     Performance na Linguagem:
         Arrays:
-            ☐ For Each
-            ☐ Map
+            ✔ For Each @done(24-10-02 09:22)
+            ✔ Map @done(24-10-02 09:22)
             ✔ Filter @done(24-09-23 22:56)
             ☐ IndexOf
             ✔ Find @done(24-09-22 23:33)
@@ -35,7 +35,7 @@ Fundamentos do Javascript:
             ✔ Slice @done(24-09-22 23:08)
             ✔ Splice @done(24-09-22 22:14)
             ✔ Remover Elementos do Array @done(24-09-22 22:14)
-            ☐ Reduce
+            ✔ Reduce @done(24-10-02 08:21)
         Strings:
             ☐ Substring
             ☐ Replace
