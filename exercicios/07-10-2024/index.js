@@ -263,3 +263,9 @@ const pessoa = {
 for (let key in pessoa) {
   console.log(key, pessoa[key]);
 }
+
+let numeros = [10, 20, 30];
+
+for (let key of numeros) {
+  console.log(key);
+}
